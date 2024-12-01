@@ -77,8 +77,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 If you have any questions or suggestions, feel free to reach out at [mounikagunji99@gmail.com].
 Happy coding! 🚀
 
-📧 Contact
-If you have any questions or suggestions, feel free to reach out at [mounikagunji99@gmail.com].
-Happy coding! 🚀
+
 
 
