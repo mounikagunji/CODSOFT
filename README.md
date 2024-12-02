@@ -65,11 +65,6 @@ The Number Guessing Game is a simple yet engaging console-based game. A random n
 🤝 Contribution
 Contributions are always welcome!
 
-Fork this repository.
-Create a new branch for your feature/bug fix: git checkout -b feature-name.
-Commit your changes: git commit -m "Add a new feature".
-Push the branch: git push origin feature-name.
-Submit a pull request.
 📜 License
 This project is licensed under the MIT License. Feel free to use, modify, and share it!
 
